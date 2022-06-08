@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike1",
+      "description": "Hàng mới về"
+    },
+    {
+      "title": "vcl",
+      "img": "htryt",
+      "description": "dd",
+      "id": 2
+    }
+  ]
+}
